@@ -1,0 +1,17 @@
+{
+  "name": "quamquam",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "license": "(Apache-2.0 AND BSD-3-Clause)",
+  "author": "KirkFerry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BraxtonHermann/quamquam.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BraxtonHermann/quamquam.git/issues"
+  },
+  "homepage": "https://github.com/BraxtonHermann/quamquam.git",
+  "version": "1.0.0"
+}
